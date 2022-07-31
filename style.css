@@ -1,0 +1,44 @@
+.blog {
+    padding-bottom: 43px;
+    margin-top: -57px;
+    text-align-last: center;
+    font-family: sans-serif;
+    color: white
+}
+.logo {
+    margin-left: auto;
+    padding-top: 30px;
+    margin-inline: 380px;
+}
+.headerr {
+    background-color: blue
+}
+.body
+{
+    margin-bottom: 100px;
+    font-family: sans-serif;
+    color: rgb(31, 31, 31);
+}
+.artigo {
+    margin:50px;
+    padding: 00px;
+}
+.autoresKenzie {
+    color: rgb(37, 37, 37);
+}
+.post {
+    color: rgb(42, 48, 48);
+}
+.newsletter
+{
+    text-align: center;
+    border-color: blue;
+}
+.emailEnviar {
+    text-align: center;
+    color: rgb(59, 59, 59);
+}
+.newsletter {
+    color-interpolation-filters: linearRGB;
+    text-align: center;
+}
